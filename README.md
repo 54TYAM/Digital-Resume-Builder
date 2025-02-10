@@ -3,21 +3,21 @@ A digital resume builder that allows users to create, customize, and download pr
 ----------------------------------------------------------------------------------------------------------------
 Divide the Work :
 
-1. Satyam (Lead & Backend)
+1. Satyam (Lead & Backend) :
 Setup MySQL database
 Build PHP API for form submission & resume generation
 Implement JSON handling for resume data
 
-2. Ashish (Frontend & UI Design)
+2. Ashish (Frontend & UI Design) :
 Create the homepage
 Design the form using HTML & Tailwind CSS
 Implement templates for resume selection
 
-3. Nilanshu (Client-Side Functionality)
+3. Nilanshu (Client-Side Functionality) :
 Handle form validation using JavaScript & jQuery
 Implement dynamic resume preview using JSON
 
-4. Yuvraj (Download & Export)
+4. Yuvraj (Download & Export) :
 Implement resume download (PDF, DOCX, JSON formats)
 Handle file conversion with PHP
 -----------------------------------------------------------------------------------------------------------------
